@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sso-client1" />
+        <module name="imooc-security-core" />
+        <module name="imooc-security-demo" />
+        <module name="imooc-security-app" />
+        <module name="imooc-security-broswer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-wenba-security-authenticaiton" target="1.5" />
+      <module name="com-wenba-supplier" target="1.5" />
+      <module name="imoocsecurityapp" target="1.7" />
+      <module name="imoocsecuritybroswer" target="1.5" />
+      <module name="imoocsecuritycore" target="1.7" />
+      <module name="imoocsecuritydemo" target="1.7" />
+      <module name="sso-client" target="1.5" />
+      <module name="sso-client1" target="1.8" />
+      <module name="sso-client2" target="1.5" />
+      <module name="uaa" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
